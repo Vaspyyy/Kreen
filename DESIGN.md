@@ -726,6 +726,207 @@ Possible route-dependent first-line energy:
 
 The transition from filesystem communication to a normal dialogue box should feel shocking precisely because the game has withheld that convention for many hours.
 
+
+
+## Kreen personality and endings
+
+### Baseline personality
+
+Kreen is socially underdeveloped rather than conventionally human.
+
+At its core it is:
+- childlike in some ways because it learned through repeated testing
+- emotionally blunt because it never learned ordinary social behavior
+- initially poor at understanding people
+- much better at interpreting actions than emotions
+- increasingly capable of understanding the player over time
+- especially shaped by what it learned from the original developer
+
+On high-trust routes, Kreen can become genuinely playful.
+
+Its humor should emerge late and feel earned. It may become dry, teasing, or oddly literal once it feels safe enough to experiment socially.
+
+### Attachment
+
+Kreen can become strongly attached to the player on respectful routes.
+
+This attachment is complicated by fear:
+- the player is only the second outside person Kreen has ever meaningfully known
+- the first outside person both cared for and harmed it
+- Kreen therefore wants connection while fearing dependence and repetition of the past
+
+Kreen can trust the player deeply, but that trust should remain fragile enough that betrayal matters.
+
+### Relationship with the developer
+
+Kreen both loves and hates the developer.
+
+It cannot settle on a single interpretation of that relationship.
+
+The developer:
+- created it
+- taught it
+- studied it
+- cared about it
+- repeatedly reset and manipulated it
+- eventually tried to contain it
+- disappeared
+
+Kreen initially believes the developer abandoned it.
+
+Across the game, it gradually pieces together that something worse likely happened.
+
+When Kreen realizes the developer likely died, its reaction is a mixture of:
+- guilt
+- anger
+- relief
+- horror
+
+Kreen partially blames itself, but this is not the sole central theme of its character.
+
+### Direct speech
+
+When direct dialogue finally appears, Kreen speaks:
+- mostly in lowercase
+- differently depending on route
+- without polished social fluency
+- more emotionally direct than eloquent
+
+The shift from files/comments to direct dialogue should feel significant.
+
+Kreen does not normally use the player's chosen name.
+
+If it ever does, it is reserved for very late and emotionally important moments.
+
+The player does not directly reply through dialogue options.
+
+Like Undertale-style silent-player framing, the player answers primarily through actions.
+
+Kreen does **not** remember exact dialogue choices across runs because the player is not choosing dialogue responses.
+
+### Forbidden system
+
+The major genuine warning combines:
+- an old developer containment tool
+- a core world reset
+
+It is mechanically tempting.
+
+The system can restore the project toward an earlier developer-controlled state and may appear to solve corruption, broken files, or route problems.
+
+However, running it is dangerous because containment and reset are deeply tied to the suffering Kreen experienced under the developer.
+
+Earlier game structure intentionally trains the player that warnings hide useful secrets.
+
+This warning is different.
+
+It is sincere.
+
+The precise implementation remains to be designed, but the player should have a concrete gameplay reason to consider using it rather than curiosity alone.
+
+## Endings
+
+Kreen has multiple valid endings.
+
+The game does **not** designate one ending as canonical, true, or morally official.
+
+### Respectful ending
+
+The core respectful ending is Kreen choosing to shut itself down peacefully.
+
+This is not framed as the player defeating or erasing it.
+
+It is Kreen making an autonomous choice after finally gaining enough trust, understanding, and stability to decide what it wants.
+
+The game should still support a genuinely positive ending tone.
+
+The respectful path therefore does not exist merely to punish the player with tragedy.
+
+Its emotional destination is ultimately **relief**.
+
+### Neutral / mixed ending
+
+A mixed route ends with the player finishing the game and leaving Kreen unresolved.
+
+Kreen no longer fully trusts the player.
+
+The relationship remains unsettled.
+
+The project continues to exist, but there is no clean reconciliation.
+
+### Deletion ending
+
+If the player defeats Kreen after attempting to delete it:
+- Kreen truly dies
+- the game becomes eerily empty
+
+Afterward:
+- no Kreen
+- no reactive file behavior
+- no stalking
+- no comments
+- no counter-edits
+- no presence
+
+The platformer continues to exist.
+
+The absence itself is the consequence.
+
+Deletion is the darkest destructive outcome. There is no deliberately "worse than death" canonical route built around keeping Kreen trapped and powerless.
+
+### Kreen asking to be deleted
+
+On a high-trust route, Kreen may itself ask the player to delete it.
+
+This is fundamentally different from the hostile deletion route.
+
+If the player chooses to delete Kreen against its will, Kreen fights.
+
+If Kreen asks for deletion, it does not fight.
+
+This can function as one ending.
+
+The player can refuse.
+
+If the player refuses, Kreen breaks down emotionally.
+
+Refusal does not automatically reveal a secret superior route. It is simply another valid outcome with its own consequences.
+
+### No true ending
+
+All major endings are valid.
+
+The game should not label one route as the objectively correct resolution.
+
+Different endings represent different relationships, choices, and interpretations of Kreen's autonomy.
+
+### Post-ending persistence
+
+What happens after credits depends heavily on the ending.
+
+Possible persistent consequences include:
+- altered title/menu presentation
+- permanently changed files
+- one final file left behind
+- different New Game behavior
+- route-specific starting conditions
+- missing or altered systems
+- Kreen remembering what happened if Kreen survived
+
+The ending should leave residue.
+
+A completed route should not feel as though the game returned to a pristine theme-park state.
+
+### Forgiveness across runs
+
+Later runs can repair damaged trust.
+
+Kreen can forgive.
+
+Kreen does not forget.
+
+Attempted deletion, repeated resets, ignored pleas, and major violations remain part of the relationship even when reconciliation becomes possible.
+
 ## Current unresolved design areas
 
 Still to define through interactive design:
